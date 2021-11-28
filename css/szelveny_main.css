@@ -1,0 +1,13 @@
+.cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+#szelveny_table {
+    margin: 0 auto;
+}
+.clearfix {
+    clear: both;
+}
